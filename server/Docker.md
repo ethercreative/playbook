@@ -12,7 +12,7 @@
 | `docker ps` | List running container services. | |
 | `docker stats` | View the stats of all the runing container services. | |
 
-#### Common issues
+### Common issues
 
 __502__
 
